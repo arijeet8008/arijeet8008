@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
 
-- 💬 Ask me about **Java,JavaScript,Html,Css**
+- 💬 Ask me about **Java,JavaScript,Html,Css,SQL**
 
 - 📫 How to reach me **arijeetchowdhury8008@gmail.com**
 
