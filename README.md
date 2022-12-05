@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **arijeetchowdhury8008@gmail.com**
 
+- 💬 Resume Link **https://drive.google.com/file/d/1Ov_yMbEjXsBHRh4cThvc0SE1nj3DMs4B/view?usp=sharing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arijeet-chowdhury-38a7a5147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijeet-chowdhury-38a7a5147" height="30" width="40" /></a>
