@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijeet8008" alt="arijeet8008" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Devloper**
+- 🌱 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
 
 - 👨‍💻 All of my projects are available at [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
 
