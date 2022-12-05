@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif)
 <h1 align="center">Hi 👋, I'm Arijeet Chowdhury</h1>
-<h3 align="center">A passionate Java Backend developer</h3>
+<h3 align="center">Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijeet8008&label=Profile%20views&color=0e75b6&style=flat" alt="arijeet8008" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijeet8008" alt="arijeet8008" /></a> </p>
 
-- 🌱 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
+- 🌱 I’m currently learning **Full Stack Web Devloper**
 
 - 👨‍💻 All of my projects are available at [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
 
