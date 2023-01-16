@@ -1,5 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
+- 👨‍💻 Portfolio  [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
+- 💬 Resume Link **https://drive.google.com/file/d/1Ov_yMbEjXsBHRh4cThvc0SE1nj3DMs4B/view?usp=sharing**
+- 📫 Reach me **arijeetchowdhury8008@gmail.com**
 
 ### ✍️...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
