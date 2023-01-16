@@ -4,9 +4,10 @@ Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
 - 👨‍💻 Portfolio  [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
 - 💬 Resume Link **https://drive.google.com/file/d/1Ov_yMbEjXsBHRh4cThvc0SE1nj3DMs4B/view?usp=sharing**
 - 📫 Reach me **arijeetchowdhury8008@gmail.com**
-
 ### ✍️...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijeet8008" alt="arijeet8008" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arijeet-chowdhury-38a7a5147) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gx6eE3tN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chowdhuryarijeet)
