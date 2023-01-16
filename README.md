@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
 
+### ✍️...
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chowdhuryarijeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arijeet-chowdhury-38a7a5147) 
@@ -11,9 +13,6 @@ Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=arijeet8008&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arijeet8008&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arijeet8008&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️...
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arijeet8008&icon=0&color=0)](https://visitcount.itsvg.in)
