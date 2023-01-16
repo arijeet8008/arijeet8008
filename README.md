@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif)
 # 💫 About Me:
 Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
 - 👨‍💻 Portfolio  [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
