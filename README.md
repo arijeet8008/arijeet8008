@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif)
 -<h1 align="center">💫 About Me:</h1>
 Hi 👋, I'm Arijeet Chowdhury a Java Backend Devloper
-- 👨‍💻 Portfolio  [https://arijeet8008.github.io/](https://arijeet8008.github.io/)
+- 👨‍💻 Portfolio  [https://64676664e64ca602facf9c35--dynamic-pasca-6f879c.netlify.app/]([https://arijeet8008.github.io/](https://64676664e64ca602facf9c35--dynamic-pasca-6f879c.netlify.app/))
 - 💬 Resume Link **https://drive.google.com/file/d/1Ov_yMbEjXsBHRh4cThvc0SE1nj3DMs4B/view?usp=sharing**
 - 📫 Reach me **arijeetchowdhury8008@gmail.com**
 ### ✍️...
